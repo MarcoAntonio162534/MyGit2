@@ -1,3 +1,6 @@
 Ciao ci riprovo
 
 Ciao sto modificando
+
+
+Branch1 locale
